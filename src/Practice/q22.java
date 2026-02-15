@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 
 public class q22 {
     //Question 2.2

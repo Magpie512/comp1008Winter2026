@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 
 public class Examprep {
 
@@ -46,10 +46,13 @@ public class Examprep {
 
         //Question 2.3
         //Write a program that prints your name, age, and favorite subject on separate lines.
+        q23.main(args);
+
         //Question 2.4
         //Write a program that prints:
         //The sum of 10 and 20 is 30
         //(Use variables.)
+
         //Question 2.5
         //Write a program that demonstrates the difference between print() and println().
         //3. Data Type Conversions

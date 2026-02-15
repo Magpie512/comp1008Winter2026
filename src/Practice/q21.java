@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 
 //Question 2.1
 //Write a program that prints the following exactly:
