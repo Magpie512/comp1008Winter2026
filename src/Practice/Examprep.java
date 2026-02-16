@@ -46,15 +46,18 @@ public class Examprep {
 
         //Question 2.3
         //Write a program that prints your name, age, and favorite subject on separate lines.
-        q23.main(args);
+        //q23.main(args);
 
         //Question 2.4
         //Write a program that prints:
         //The sum of 10 and 20 is 30
         //(Use variables.)
+        //q24.main(args);
 
         //Question 2.5
         //Write a program that demonstrates the difference between print() and println().
+        //q25.main(args);
+
         //3. Data Type Conversions
         //Question 3.1
         //Ask the user to enter their age as a String. Convert it to an integer and print next year's age.
