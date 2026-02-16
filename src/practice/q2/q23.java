@@ -1,4 +1,4 @@
-package practice;
+package practice.q2;
 //Question 2.3
 //Write a program that prints your name, age, and favorite subject on separate lines.
 public class q23 {

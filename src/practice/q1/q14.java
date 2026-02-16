@@ -1,4 +1,4 @@
-package practice;
+package practice.q1;
 
 //Write a program that asks the user to enter 3 words separately and prints them on one line separated by commas.
 //q14.main(args);

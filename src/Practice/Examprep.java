@@ -7,19 +7,19 @@ public class Examprep {
 
         //Question 1.1
         //Write a program that asks the user to enter their full name and prints it back.
-        //q11.main(args);
+        //practice.q1.q11.main(args);
         
         //Question 1.2
         //Write a program that asks the user to enter two integers and prints their product.
-        //q12.main(args);
+        //practice.q1.q12.main(args);
         
         //Question 1.3
         //Write a program that asks the user to enter a decimal number and prints its square.
-        //q13.main(args);
+        //practice.q1.q13.main(args);
 
         //Question 1.4
         //Write a program that asks the user to enter 3 words separately and prints them on one line separated by commas.
-        //q14.main(args);
+        //practice.q1.q14.main(args);
         
         //Question 1.5
         //Write a program that asks the user for:
@@ -27,7 +27,7 @@ public class Examprep {
         //Age
         //Height
         //Then display all the information neatly formatted.
-        //q15.main(args);
+        //practice.q1.q15.main(args);
         
         //2. Output Questions
         
@@ -61,14 +61,23 @@ public class Examprep {
         //3. Data Type Conversions
         //Question 3.1
         //Ask the user to enter their age as a String. Convert it to an integer and print next year's age.
+        //q31.main(args);
+
         //Question 3.2
         //Convert a double value (e.g., 5.75) into an integer and print both values.
+        //q32.main(args);
+
         //Question 3.3
         //Ask the user for two numbers as Strings. Convert them to doubles and print their average.
+        //q33.main(args);
+
         //Question 3.4
         //Convert an integer into a double and concatenate it with a sentence.
+
+
         //Question 3.5
         //Ask the user for a character as a String. Convert it to a float and print it.
+
         //4. Arrays
         //Question 4.1
         //Create an array of 5 integers and print all elements using a loop.

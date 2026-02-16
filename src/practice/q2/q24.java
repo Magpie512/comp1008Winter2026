@@ -1,4 +1,4 @@
-package practice;
+package practice.q2;
 //Write a program that prints:
 //The sum of 10 and 20 is 30
 //(Use variables.)

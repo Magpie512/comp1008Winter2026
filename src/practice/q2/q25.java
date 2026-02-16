@@ -1,4 +1,4 @@
-package practice;
+package practice.q2;
 
 public class q25 {
     public static void main(String[] args) {
