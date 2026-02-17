@@ -8,11 +8,11 @@ public class Examprep {
         //Question 1.1
         //Write a program that asks the user to enter their full name and prints it back.
         //practice.q1.q11.main(args);
-        
+
         //Question 1.2
         //Write a program that asks the user to enter two integers and prints their product.
         //practice.q1.q12.main(args);
-        
+
         //Question 1.3
         //Write a program that asks the user to enter a decimal number and prints its square.
         //practice.q1.q13.main(args);
@@ -20,7 +20,7 @@ public class Examprep {
         //Question 1.4
         //Write a program that asks the user to enter 3 words separately and prints them on one line separated by commas.
         //practice.q1.q14.main(args);
-        
+
         //Question 1.5
         //Write a program that asks the user for:
         //Name
@@ -28,9 +28,10 @@ public class Examprep {
         //Height
         //Then display all the information neatly formatted.
         //practice.q1.q15.main(args);
-        
+
+        /*************************************************************************************/
+
         //2. Output Questions
-        
         //Question 2.1
         //Write a program that prints the following exactly:
         //Welcome to Java Programming!
@@ -58,6 +59,8 @@ public class Examprep {
         //Write a program that demonstrates the difference between print() and println().
         //practice.q2.q25.main(args);
 
+        /*************************************************************************************/
+
         //3. Data Type Conversions
         //Question 3.1
         //Ask the user to enter their age as a String. Convert it to an integer and print next year's age.
@@ -77,12 +80,13 @@ public class Examprep {
 
         //Question 3.5
         //Ask the user for a character as a String. Convert it to a float and print it.
-        practice.q3.q35.main(args);
+        //practice.q3.q35.main(args);
 
+        /*************************************************************************************/
+        
         //4. Arrays
         //Question 4.1
         //Create an array of 5 integers and print all elements using a loop.
-
 
         //Question 4.2
         //Ask the user to enter 5 numbers and store them in an array. Print the total sum.
@@ -284,36 +288,29 @@ public class Examprep {
         //Uses a try-catch block to handle division by zero.
         //If division by zero occurs, print: Cannot divide by zero!
 
-
-        //Question 12.2
-        //Write a program that:
-        //Asks the user to enter an integer.
-        //Uses a try-catch block to handle invalid input (e.g., letters instead of numbers).
-        //If invalid input is entered, print: Invalid number entered.
-
-
-        //Question 12.3
-        //Create an array of 5 integers.
-        //Ask the user to enter an index number.
-        //Use a try-catch block to handle ArrayIndexOutOfBoundsException.
-        //If the index is invalid, print: Invalid index!
-
-
-        //Question 12.4
-        //Write a program that:
-        //Asks the user for two numbers.
-        //Divides them.
-        //Uses multiple catch blocks to handle:
-        //ArithmeticException and InputMismatchException
-        //Print appropriate error messages for each exception.
-
-
-        //Question 12.5
-        //Write a program that:
-        //Uses a try-catch-finally block.
-        //In the try block, attempt to divide two numbers.
-        //In the catch block, print an error message.
-        //In the finally block, print: Program finished.
-        //The finally message must print whether an exception occurs or not.
-    }
+    //Question 12.2
+    //Write a program that:
+    //Asks the user to enter an integer.
+    //Uses a try-catch block to handle invalid input (e.g., letters instead of numbers).
+    //If invalid input is entered, print: Invalid number entered.
+    //Question 12.3
+    //Create an array of 5 integers.
+    //Ask the user to enter an index number.
+    //Use a try-catch block to handle ArrayIndexOutOfBoundsException.
+    //If the index is invalid, print: Invalid index!
+    //Question 12.4
+    //Write a program that:
+    //Asks the user for two numbers.
+    //Divides them.
+    //Uses multiple catch blocks to handle:
+    //ArithmeticException and InputMismatchException
+    //Print appropriate error messages for each exception.
+    //Question 12.5
+    //Write a program that:
+    //Uses a try-catch-finally block.
+    //In the try block, attempt to divide two numbers.
+    //In the catch block, print an error message.
+    //In the finally block, print: Program finished.
+    //The finally message must print whether an exception occurs or not.
+}
 }
