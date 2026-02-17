@@ -29,7 +29,7 @@ public class Examprep {
         //Then display all the information neatly formatted.
         //practice.q1.q15.main(args);
 
-        /*************************************************************************************/
+        /* *********************************************************************************** */
 
         //2. Output Questions
         //Question 2.1
@@ -59,7 +59,7 @@ public class Examprep {
         //Write a program that demonstrates the difference between print() and println().
         //practice.q2.q25.main(args);
 
-        /*************************************************************************************/
+        /* *********************************************************************************** */
 
         //3. Data Type Conversions
         //Question 3.1
@@ -82,20 +82,31 @@ public class Examprep {
         //Ask the user for a character as a String. Convert it to a float and print it.
         //practice.q3.q35.main(args);
 
-        /*************************************************************************************/
+        /* *********************************************************************************** */
         
         //4. Arrays
         //Question 4.1
         //Create an array of 5 integers and print all elements using a loop.
-
+        //practice.q4.q41.main(args);
+        
         //Question 4.2
         //Ask the user to enter 5 numbers and store them in an array. Print the total sum.
+        //practice.q4.q42.main(args);
+
         //Question 4.3
         //Create an array of 5 double values and print the average.
+        //practice.q4.q43.main(args);
+
         //Question 4.4
         //Create an array of names and print the longest name.
+        //practice.q4.q44.main(args);
+
         //Question 4.5
         //Create an integer array and count how many even numbers it contains.
+        //practice.q4.q45.main(args);
+
+        /* *********************************************************************************** */
+
         //5. Method Overloading
         //Question 5.1
         //Create two methods named multiply():
