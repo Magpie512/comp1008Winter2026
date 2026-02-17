@@ -34,7 +34,7 @@ public class Examprep {
         //Question 2.1
         //Write a program that prints the following exactly:
         //Welcome to Java Programming!
-        //q21.main(args);
+        //practice.q2.q21.main(args);
 
         //Question 2.2
         //Write a program that prints a rectangle using stars:
@@ -42,45 +42,48 @@ public class Examprep {
         //*****
         //*****
         //*****
-        //q22.main(args);
+        //practice.q2.q22.main(args);
 
         //Question 2.3
         //Write a program that prints your name, age, and favorite subject on separate lines.
-        //q23.main(args);
+        //practice.q2.q23.main(args);
 
         //Question 2.4
         //Write a program that prints:
         //The sum of 10 and 20 is 30
         //(Use variables.)
-        //q24.main(args);
+        //practice.q2.q24.main(args);
 
         //Question 2.5
         //Write a program that demonstrates the difference between print() and println().
-        //q25.main(args);
+        //practice.q2.q25.main(args);
 
         //3. Data Type Conversions
         //Question 3.1
         //Ask the user to enter their age as a String. Convert it to an integer and print next year's age.
-        //q31.main(args);
+        //practice.q3.q31.main(args);
 
         //Question 3.2
         //Convert a double value (e.g., 5.75) into an integer and print both values.
-        //q32.main(args);
+        //practice.q3.q32.main(args);
 
         //Question 3.3
         //Ask the user for two numbers as Strings. Convert them to doubles and print their average.
-        //q33.main(args);
+        //practice.q3.q33.main(args);
 
         //Question 3.4
         //Convert an integer into a double and concatenate it with a sentence.
-
+        //practice.q3.q34.main(args);
 
         //Question 3.5
         //Ask the user for a character as a String. Convert it to a float and print it.
+        practice.q3.q35.main(args);
 
         //4. Arrays
         //Question 4.1
         //Create an array of 5 integers and print all elements using a loop.
+
+
         //Question 4.2
         //Ask the user to enter 5 numbers and store them in an array. Print the total sum.
         //Question 4.3
@@ -272,6 +275,7 @@ public class Examprep {
         //Write JUnit tests to verify:
         //The constructor sets values correctly
         //Getters return the correct values
+
         //12. Try-Catch Statements
         //Question 12.1
         //Write a program that:
@@ -279,16 +283,22 @@ public class Examprep {
         //Divides the first number by the second.
         //Uses a try-catch block to handle division by zero.
         //If division by zero occurs, print: Cannot divide by zero!
+
+
         //Question 12.2
         //Write a program that:
         //Asks the user to enter an integer.
         //Uses a try-catch block to handle invalid input (e.g., letters instead of numbers).
         //If invalid input is entered, print: Invalid number entered.
+
+
         //Question 12.3
         //Create an array of 5 integers.
         //Ask the user to enter an index number.
         //Use a try-catch block to handle ArrayIndexOutOfBoundsException.
         //If the index is invalid, print: Invalid index!
+
+
         //Question 12.4
         //Write a program that:
         //Asks the user for two numbers.
@@ -296,6 +306,8 @@ public class Examprep {
         //Uses multiple catch blocks to handle:
         //ArithmeticException and InputMismatchException
         //Print appropriate error messages for each exception.
+
+
         //Question 12.5
         //Write a program that:
         //Uses a try-catch-finally block.
