@@ -112,15 +112,21 @@ public class Examprep {
         //Create two methods named multiply():
         //One takes two integers
         //One takes three integers
+        //practice.q5.q51.main(args);
+
         //Question 5.2
         //Create overloaded display() methods:
         //One prints a String
         //One prints an int
         //One prints a double
+        //practice.q5.q52.main(args);
+
         //Question 5.3
         //Create overloaded area() methods:
         //One calculates area of a square
         //One calculates area of a rectangle
+        practice.q5.q52.main(args);
+
         //Question 5.4
         //Create overloaded convert() methods:
         //One converts int to double
