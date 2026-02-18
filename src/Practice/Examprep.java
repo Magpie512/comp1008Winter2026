@@ -125,17 +125,23 @@ public class Examprep {
         //Create overloaded area() methods:
         //One calculates area of a square
         //One calculates area of a rectangle
-        practice.q5.q52.main(args);
+        //practice.q5.q52.main(args);
 
         //Question 5.4
         //Create overloaded convert() methods:
         //One converts int to double
         //One converts double to int
+        //practice.q5.q52.main(args);
+
         //Question 5.5
         //Create overloaded greet() methods:
         //One takes no parameters
         //One takes a name
         //One takes name and age
+        //practice.q5.q55.main(args);
+
+        /* *********************************************************************************** */
+
         //6. Classes
         //Question 6.1
         //Create a Car class with:
@@ -143,18 +149,23 @@ public class Examprep {
         //private year
         //Add getters and setters.
         //Create an object and print details.
+
+
+
         //Question 6.2
         //Create a Student class with:
         //private name
         //private grade
         //Use getters and setters.
         //Create an array of 3 students and print their details.
+
         //Question 6.3
         //Create an enum called Level:
         //BEGINNER
         //INTERMEDIATE
         //ADVANCED
         //Create a Course class that includes this enum as a field.
+        
         //Question 6.4
         //Create a Book class with:
         //private title
