@@ -172,13 +172,14 @@ public class Examprep {
         //private author
         //private price
         //Create 3 books in an array and print the most expensive book.
-        
-        //Question 6.5
-        //Create an Employee class with:
-        //private name
-        //private salary
-        //private department (enum)
-        //Create an array of employees and calculate the average salary.
+
+            //Question 6.5
+            //Create an Employee class with:
+            //private name
+            //private salary
+            //private department (enum)
+            //Create an array of employees and calculate the average salary.
+
         //7. Loops
         //Question 7.1
         //Write a program that uses a for loop to print numbers from 1 to 20.
@@ -317,29 +318,32 @@ public class Examprep {
         //Uses a try-catch block to handle division by zero.
         //If division by zero occurs, print: Cannot divide by zero!
 
-    //Question 12.2
-    //Write a program that:
-    //Asks the user to enter an integer.
-    //Uses a try-catch block to handle invalid input (e.g., letters instead of numbers).
-    //If invalid input is entered, print: Invalid number entered.
-    //Question 12.3
-    //Create an array of 5 integers.
-    //Ask the user to enter an index number.
-    //Use a try-catch block to handle ArrayIndexOutOfBoundsException.
-    //If the index is invalid, print: Invalid index!
-    //Question 12.4
-    //Write a program that:
-    //Asks the user for two numbers.
-    //Divides them.
-    //Uses multiple catch blocks to handle:
-    //ArithmeticException and InputMismatchException
-    //Print appropriate error messages for each exception.
-    //Question 12.5
-    //Write a program that:
-    //Uses a try-catch-finally block.
-    //In the try block, attempt to divide two numbers.
-    //In the catch block, print an error message.
-    //In the finally block, print: Program finished.
-    //The finally message must print whether an exception occurs or not.
+        //Question 12.2
+        //Write a program that:
+        //Asks the user to enter an integer.
+        //Uses a try-catch block to handle invalid input (e.g., letters instead of numbers).
+        //If invalid input is entered, print: Invalid number entered.
+
+        //Question 12.3
+        //Create an array of 5 integers.
+        //Ask the user to enter an index number.
+        //Use a try-catch block to handle ArrayIndexOutOfBoundsException.
+        //If the index is invalid, print: Invalid index!
+
+        //Question 12.4
+        //Write a program that:
+        //Asks the user for two numbers.
+        //Divides them.
+        //Uses multiple catch blocks to handle:
+        //ArithmeticException and InputMismatchException
+        //Print appropriate error messages for each exception.
+
+        //Question 12.5
+        //Write a program that:
+        //Uses a try-catch-finally block.
+        //In the try block, attempt to divide two numbers.
+        //In the catch block, print an error message.
+        //In the finally block, print: Program finished.
+        //The finally message must print whether an exception occurs or not.
 }
 }
