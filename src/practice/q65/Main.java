@@ -16,7 +16,7 @@ public class Main {
 
         double totalSalary = 0;
         for (Employee emp : employees) {
-            totalSalary += emp.salary;
+            totalSalary += emp.getSalary();
         }
 
         double averageSalary = totalSalary / employees.length;

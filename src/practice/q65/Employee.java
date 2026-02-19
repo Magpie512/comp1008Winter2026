@@ -10,7 +10,7 @@ public class Employee {
     private double salary;
     private Department department;
 
-    enum Department {
+    public enum Department {
         HR, IT, SALES, MARKETING
     }
 
@@ -18,5 +18,9 @@ public class Employee {
         this.name = name;
         this.salary = salary;
         this.department = department;
+    }
+
+    public double getSalary() {
+        return salary;
     }
 }

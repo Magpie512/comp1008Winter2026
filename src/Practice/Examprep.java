@@ -180,21 +180,31 @@ public class Examprep {
             //private department (enum)
             //Create an array of employees and calculate the average salary.
 
+        /* *********************************************************************************** */
+
         //7. Loops
         //Question 7.1
         //Write a program that uses a for loop to print numbers from 1 to 20.
+
         //Question 7.2
         //Write a program that uses a while loop to print numbers from 10 down to 1.
+
         //Question 7.3
         //Write a program that calculates and prints the sum of numbers from 1 to 100 using a for loop.
+
         //Question 7.4
         //Write a program that keeps asking the user to enter a number until they enter 0.
         //When 0 is entered, print the total sum of all numbers entered.
+
         //Question 7.5
         //Create an array of 5 integers.
         //Use an enhanced for loop to:
         //Print each number
         //Calculate and print the average
+
+        /* *********************************************************************************** */
+
+
         //8. If and Switch
         //Question 8.1 
         //Write a program that asks the user to enter a number.
