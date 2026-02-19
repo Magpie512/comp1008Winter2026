@@ -1,4 +1,5 @@
 package practice.q9regex;
+import java.util.Scanner;
         //Question 9.4 
         //Write a program that checks if a product code:
         //Contains 3 uppercase letters
@@ -16,5 +17,6 @@ public class q94 {
         } else {
             System.out.println("Invalid product code. It should contain 3 uppercase letters followed by a dash and 3 digits.");
         }
+        scanner.close();
     }
 }

@@ -1,4 +1,5 @@
 package practice.q9regex;
+import java.util.Scanner;
         //Question 9.2
         //Write a program that checks if a username:
         //Is between 5 and 10 characters long
@@ -15,5 +16,6 @@ public class q92 {
         } else {
             System.out.println("Invalid username. It should be 5-10 characters long and contain only letters, numbers, or underscores.");
         }
+        scanner.close();
     }
 }

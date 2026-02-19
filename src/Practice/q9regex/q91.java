@@ -1,4 +1,5 @@
 package practice.q9regex;
+import java.util.Scanner;
         //Question 9.1
         //Write a Java program that checks if a student number:
         //Starts with "ST"
@@ -16,5 +17,7 @@ public class q91 {
         } else {
             System.out.println("Invalid student number. It should start with 'ST' followed by exactly 4 digits.");
         }
+
+        scanner.close();
     }
 }

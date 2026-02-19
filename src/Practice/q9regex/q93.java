@@ -1,4 +1,5 @@
 package practice.q9regex;
+import java.util.Scanner;
         //Question 9.3
         //Write a program that checks if a name:
         //Starts with a capital letter
@@ -17,5 +18,6 @@ public class q93 {
         } else {
             System.out.println("Invalid name. It should start with a capital letter followed by only lowercase letters and contain no spaces.");
         }
+        scanner.close();
     }
 }

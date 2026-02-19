@@ -1,4 +1,5 @@
 package practice.q8ifswitch;
+import java.util.Scanner;
         //Question 8.3 
         //Ask the user for their age and whether they have a driver's license (true/false).
         //Only allow them to rent a car if:
@@ -18,5 +19,7 @@ public class q83 {
         } else {
             System.out.println("Not eligible.");
         }
+
+        scanner.close();
     }
 }

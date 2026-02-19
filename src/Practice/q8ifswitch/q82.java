@@ -1,4 +1,5 @@
 package practice.q8ifswitch;
+import java.util.Scanner;
         //Question 8.2 
         //Ask the user to enter a test mark (0–100).
         //Display the grade:
@@ -20,5 +21,7 @@ public class q82 {
         } else {
             System.out.println("Invalid mark. Please enter a number between 0 and 100.");
         }
+
+        scanner.close();
     }
 }

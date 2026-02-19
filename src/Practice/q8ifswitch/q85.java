@@ -1,5 +1,8 @@
 package practice.q8ifswitch;
-        //Question 8.5 
+
+import java.util.Scanner;
+
+//Question 8.5 
         //Ask the user to enter:
         //Two numbers
         //An operator (+, -, *, /)
@@ -42,5 +45,6 @@ public class q85 {
             default:
                 System.out.println("Invalid operator. Please enter one of +, -, *, /.");
         }
+                scanner.close();
     }
 }

@@ -1,4 +1,5 @@
 package practice.q8ifswitch;
+import java.util.Scanner;
         //Question 8.4 
         //Ask the user to enter a number (1–7).
         //Use a switch statement to display the day of the week.
@@ -37,5 +38,6 @@ public class q84 {
             default:
                 System.out.println("Invalid number. Please enter a number between 1 and 7.");
         }
+                scanner.close();
     }
 }

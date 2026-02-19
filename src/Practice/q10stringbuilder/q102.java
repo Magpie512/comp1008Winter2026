@@ -1,4 +1,5 @@
 package practice.q10stringbuilder;
+import java.util.Scanner;
         //Question 10.2
         //Write a program that:
         //Asks the user to enter a word
