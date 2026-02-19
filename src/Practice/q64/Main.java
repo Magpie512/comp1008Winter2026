@@ -8,11 +8,12 @@ package practice.q64;
 
 public class Main {
     static void main(String[] args) {
-        Book book1 = new Book("The Great Gatsby", "F. Scott Fitzgerald", 10.99);
-        Book book2 = new Book("To Kill a Mockingbird", "Harper Lee", 12.99);
-        Book book3 = new Book("1984", "George Orwell", 8.99);
+        Book[] books = new Book[3];
+        books[0] = new Book("The Great Gatsby", "F. Scott Fitzgerald", 10.99);
+        books[1] = new Book("To Kill a Mockingbird", "Harper Lee", 12.99);
+        books[2] = new Book("1984", "George Orwell", 8.99);
 
-//        Book mostExpensiveBook = books[0];
+        Book mostExpensiveBook = books[0];
 
         /*for (int i = 0; i < books.length; i++){
             if(books[i].getPrice() > mostExpensiveBook.getPrice()){
@@ -20,11 +21,11 @@ public class Main {
             }
         }*/
 
-        /*for (Book book : books) {
+        for (Book book : books) {
             if (book.getPrice() > mostExpensiveBook.getPrice()) {
                 mostExpensiveBook = book;
             }
-        }*/
+        }
 
         System.out.println("The most expensive book is: " + mostExpensiveBook.getTitle() + " by " + mostExpensiveBook.getAuthor() + " with a price of $" + mostExpensiveBook.getPrice());
     }
