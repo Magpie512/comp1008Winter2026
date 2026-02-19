@@ -24,7 +24,7 @@ public class BarrieGoTrain {
     }
     public void setDirection(String direction){
         if(direction.equalsIgnoreCase("north") ||
-                direction.equalsIgnoreCase("south")){
+        direction.equalsIgnoreCase("south")){
             this.direction = direction.toLowerCase();
         }
     }
@@ -39,8 +39,8 @@ public class BarrieGoTrain {
         return -1;
     }
     public void tapOn(Station station) {
-        boarding = station;
-        tapOnIndex = getStationIndex(station);
+     boarding = station;
+     tapOnIndex = getStationIndex(station);
     }
     public void tapOff(Station station) {
         departing = station;
