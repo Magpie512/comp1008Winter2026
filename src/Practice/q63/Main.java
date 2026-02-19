@@ -5,21 +5,15 @@ package practice.q63;
 //INTERMEDIATE
 //ADVANCED
 //Create a Course class that includes this enum as a field.
+
 public class Main {
     public static void main(String[] args) {
-        // Create instances of the Course class with different levels and print their details.
+        Course course1 = new Course("Java Programming", Course.Level.BEGINNER);
+        Course course2 = new Course("Data Structures", Course.Level.INTERMEDIATE);
+        Course course3 = new Course("Algorithms", Course.Level.ADVANCED);
 
-        // Course1 is a beginner level course on Java Programming
-        Course course1 = new Course("Java Programming", Level.BEGINNER);
-
-        // Course2 is an intermediate level course on Data Structures
-        Course course2 = new Course("Data Structures", Level.INTERMEDIATE);
-
-        // Course3 is an advanced level course on Machine Learning
-        Course course3 = new Course("Machine Learning", Level.ADVANCED);
-
-        System.out.println(course1);
-        System.out.println(course2);
-        System.out.println(course3);
+        System.out.println(course1.getCourseName() + " - " + course1.getCourseLevel());
+        System.out.println(course2.getCourseName() + " - " + course2.getCourseLevel());
+        System.out.println(course3.getCourseName() + " - " + course3.getCourseLevel());
     }
 }

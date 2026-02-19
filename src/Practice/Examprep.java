@@ -172,6 +172,7 @@ public class Examprep {
         //private author
         //private price
         //Create 3 books in an array and print the most expensive book.
+        
         //Question 6.5
         //Create an Employee class with:
         //private name
