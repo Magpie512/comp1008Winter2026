@@ -17,7 +17,6 @@ public class BarrieGoTrain {
 
     private int tapOnIndex, tapOffIndex;
 
-
     public BarrieGoTrain() {}
     public BarrieGoTrain(String direction){
         setDirection(direction);
