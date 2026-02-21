@@ -6,7 +6,7 @@ import java.util.Scanner;
         //Followed by only lowercase letters
         //Has no spaces
         //Example valid input: Michael
-        //Invalid: michael, MICHAEL, Michael1
+        //Invalid: michael, MICHAEL, Michael
 public class q93 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
