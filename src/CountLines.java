@@ -10,7 +10,7 @@ public class CountLines {
             while (reader.readLine() != null) {
                 count++;
             }
-            System.out.println("[CountLines] Number of lines: " + count);
+            System.out.println("Number of lines: " + count);
         } catch (IOException e) {
             System.err.println("Error reading from file: " + e.getMessage());
         }
