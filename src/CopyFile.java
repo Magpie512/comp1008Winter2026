@@ -7,8 +7,8 @@ import java.io.IOException;
 public class CopyFile {
     public void execute() {
         try (
-            BufferedReader reader = new BufferedReader(new FileReader("source.txt"));
-            BufferedWriter writer = new BufferedWriter(new FileWriter("destination.txt"))
+            BufferedReader reader = new BufferedReader(new FileReader("src/source.txt"));
+            BufferedWriter writer = new BufferedWriter(new FileWriter("src/destination.txt"))
         ) {
             String line;
             while ((line = reader.readLine()) != null) {

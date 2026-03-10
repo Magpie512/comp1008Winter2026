@@ -6,7 +6,7 @@ public class CountLines {
     public void execute() {
         int count = 0;
 
-        try (BufferedReader reader = new BufferedReader(new FileReader("notes.txt"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("src/notes.txt"))) {
             while (reader.readLine() != null) {
                 count++;
             }

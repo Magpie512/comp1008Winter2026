@@ -2,7 +2,7 @@ import java.io.File;
 
 public class CheckFileExists {
     public void execute() {
-        File file = new File("data.txt");
+        File file = new File("src/data.txt");
 
         if (file.exists()) {
             System.out.println("[CheckFileExists] File exists");
