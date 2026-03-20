@@ -1,4 +1,4 @@
-package EASYTASK.pet;
+package easy.pet;
 
 class Dog extends Animal {
     void bark() {

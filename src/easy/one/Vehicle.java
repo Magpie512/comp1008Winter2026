@@ -1,4 +1,4 @@
-package EASYTASK.Car;
+package easy.one;
 
 class Vehicle {
     void start() {

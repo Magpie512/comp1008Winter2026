@@ -1,4 +1,4 @@
-package EASYTASK.pet;
+package easy.pet;
 
 public class Animal {
     void eat() {

@@ -1,4 +1,4 @@
-package EASYTASK.pet;
+package easy.pet;
 
 public class main {
     public static void main(String[] args) {
