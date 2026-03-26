@@ -1,4 +1,4 @@
-package Hard.nineteen;
+package Hard.Nineteen;
 
 public class Animal {
     public Animal(){
