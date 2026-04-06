@@ -6,12 +6,18 @@ public abstract class Shape {
 
     private String name;
 
+    /**
+     * Returns the name of the shape
+     * @return the name of the shape
+     */
     public String getName() {
         return name;
     }
 
-    // Setter for name
-    // this.name is the local variable
+    /**
+     * Sets the name of the shape
+     * @param name the name of the shape
+     */
     public void setName(String name) {
         this.name = name;
     }

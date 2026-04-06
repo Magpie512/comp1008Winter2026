@@ -19,18 +19,34 @@ public abstract class CircularShape extends Shape{
 
     }
 
+    /**
+     * Returns the radius of the circular shape
+     * @return the radius of the circular shape
+     */
     public double getRadius() {
         return radius;
     }
 
+    /**
+     * Sets the radius of the circular shape.
+     * @param radius the radius of the circular shape
+     */
     public void setRadius(double radius) {
         this.radius = radius;
     }
 
+    /**
+     * Returns the diameter of the circular shape
+     * @return the diameter of the circular shape
+     */
     public double getDiameter() {
         return diameter;
     }
 
+    /**
+     * Sets the diameter of the circular shape.
+     * @param diameter the diameter of the circular shape
+     */
     public void setDiameter(double diameter) {
         this.diameter = diameter;
     }
