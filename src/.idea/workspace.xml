@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0586bbd-b76b-435d-b888-07befc41193e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/wk1/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk1/MathOperationsWithUserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/easy/task1/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/easy/task1/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/easy/task1/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/easy/task_prof/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/easy/task_prof/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/easy/task_prof/WorkingStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/easy/task_prof/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/medium/task1/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/medium/task1/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/medium/task1/Dalmatian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/medium/task1/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/medium/task1/description.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/medium/task20/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/medium/task20/CheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk10/inheritance_tasks/medium/task20/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/Cellphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/CircularShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/MotorizedVehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/PaymentMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/ThreeDShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/Week11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk11/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/BlackJackPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/BlackjackGame" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/Boss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/Dealer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/Fighter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/Participant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/Rules.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/Shield.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/SpecialMove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk12/Weapon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk2/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk2/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk2/Week2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk2/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk2/tasks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk3/Classroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk3/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk3/EventTicketingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk3/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk3/Week3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk3/WorkingWithArraysAndArrayLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk3/tasks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk4/BarrieGoTrain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk4/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk4/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk4/Week4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk4/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk6/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk6/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk6/Week6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk8/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk8/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk9/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk9/SuperHero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk9/Week9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk9/fighting_game/Boss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk9/fighting_game/Fighter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk9/fighting_game/FightingGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk9/fighting_game/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk9/fighting_game/plan.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wk9/notes.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3C8WAHwUvMVvn9O3J3dfRFNafaS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Week14",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0586bbd-b76b-435d-b888-07befc41193e" name="Changes" comment="" />
+      <created>1775767538990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775767538990</updated>
+    </task>
+    <servers />
+  </component>
+</project>
