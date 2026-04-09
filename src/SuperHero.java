@@ -1,21 +1,22 @@
-public class SuperHero extends Human{
+
+public class SuperHero extends Human {
 
     private String superPower, heroName;
     public double scarinessLevel;
 
-
-    public SuperHero(){}
+    public SuperHero() {
+    }
 
     public SuperHero(String name, double power, int speed,
-                     double height, int age, String superPower,
-                     String heroName, double scarinessLevel) {
+            double height, int age, String superPower,
+            String heroName, double scarinessLevel) {
         super(name, power, speed, height, age);
         this.superPower = superPower;
         this.heroName = heroName;
         this.scarinessLevel = scarinessLevel;
     }
 
-    public SuperHero(String name, double power, int speed, double height, int age){
+    public SuperHero(String name, double power, int speed, double height, int age) {
 //        setName(name);
 //        setPower(power);
 //        setSpeed(speed);
@@ -44,12 +45,12 @@ public class SuperHero extends Human{
         return 2 * super.getSpeed();
     }
 
-    public String toString(){
+    public String toString() {
 
         return super.toString()
                 .replace("Human", "Superhero")
                 .replace("}", "")
-                + ", HeroName=" + heroName + ", SuperPower=" + superPower +
-                ", scarinessLevel = " + scarinessLevel + "}";
+                + ", HeroName=" + heroName + ", SuperPower=" + superPower
+                + ", scarinessLevel = " + scarinessLevel + "}";
     }
 }
