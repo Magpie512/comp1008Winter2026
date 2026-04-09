@@ -1,3 +1,0 @@
-interface Weapon {
-    int attack();
-}
